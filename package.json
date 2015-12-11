@@ -1,0 +1,23 @@
+{
+  "name": "jokes-on-u",
+  "version": "1.0.0",
+  "description": "hahahahaha",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikemitchel/jokes-on-u.git"
+  },
+  "author": "theRodClub",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikemitchel/jokes-on-u/issues"
+  },
+  "homepage": "https://github.com/mikemitchel/jokes-on-u#readme",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "express": "^4.13.3"
+  }
+}
