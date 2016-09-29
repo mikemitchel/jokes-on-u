@@ -10,7 +10,8 @@ var jokes = {
   laughs: [
 
     {joke: 'Knock, Knock ... Who\'s there? Shut yer trap, that\'s who'},
-    {joke: 'Chuck Norris tells Simon what to do'}
+    {joke: 'Chuck Norris tells Simon what to do'},
+    {joke: 'Two blondes walk into a bar, you\'d think that at least one of them would\'ve seen it!'},
 
   ]
 
